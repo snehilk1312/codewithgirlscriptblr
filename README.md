@@ -3,7 +3,7 @@
 
 ## Code with GirlScript Bangalore
 
-Welcome to GirlScript Bangalore's brand new initiative! If you are a techie 👨‍💻👩‍💻, if you want to get started with open source contribution 💻, if you are looking to improve your skills 📈, you have landed in just the right place! ⬇
+Welcome to **GirlScript Bangalore's** brand new initiative! If you are a techie 👨‍💻👩‍💻, if you want to get started with **open source contribution** 💻, if you are looking to improve your skills 📈, you have landed in just the right place! ⬇
 
 Code with GirlScript Bangalore is how we want to give back to the tech community all over the world! We want to help everyone - beginners and advanced find their calling and enhance their technical knowledge.
 
@@ -11,8 +11,8 @@ As a part of this initiative, we would post weekly challenges categorised as eas
 ⭐Yes, we do have something for everyone!⭐
 
 You could choose to participate as either:
-- Contribute solutions to the challenges 🤓
-- Review solutions posted by other participants 🧐
+> - Contribute solutions to the challenges 🤓
+> - Review solutions posted by other participants 🧐
 
 Come along, brush up your techie skills!
 
@@ -25,8 +25,8 @@ Participants are free to use any programming language of their choice. The best 
 Based on the number of solutions, consistency, design, logic and implementation, we would pick the 'GEEK OF GEEKS' 👑 each month.
 
 For all the young duckings, we have posted some useful resources to go through and understand GitHub. 
-<Links>
-<Docs GitHub>
+- [Documentation](https://guides.github.com/)
+- [Git Documentation](https://git-scm.com/docs)
 
 Follow the steps below to get started right away!
 
