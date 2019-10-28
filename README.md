@@ -21,14 +21,10 @@ To begin with, we would be focusing on Data Structures and Algorithms.
 Each week, we would publish a new challenge on Saturday. The question would be available in: <Date folder> - README.md 
 The answer would be published the following week on Friday! 🍻
 
-Participants are free to use any programming language of their choice. The best solution each week would earn their contributors their name as 'SUPER CONTRIBUTOR'  in the same README.md file.
-Based on the number of solutions, consistency, design, logic and implementation, we would pick the 'GEEK OF GEEKS' 👑 each month.
+> Participants are free to use any programming language of their choice. The best solution each week would earn their contributors their name as 'SUPER CONTRIBUTOR'  in the same README.md file.
+> Based on the number of solutions, consistency, design, logic and implementation, we would pick the 'GEEK OF GEEKS' 👑 each month.
 
-For all the young duckings, we have posted some useful resources to go through and understand GitHub. 
-- [Documentation](https://guides.github.com/)
-- [Git Documentation](https://git-scm.com/docs)
-
-Follow the steps below to get started right away!
+## Follow the steps below to get started right away!
 
 - Fork this repo: You'll see a Fork button on the top right against the name of this repository. This creates an identical copy of this repository and adds it to your repositories.
 
@@ -50,6 +46,14 @@ For GitHub web, simply move over to the original repository and click on New Pul
 
 If you have successfully followed these steps, you're one step closer to being a 'SUPER CONTRIBUTOR' and 'GEEK OF GEEKS'.🥳 But don't stop, continue making contributions and improve your chances each week! Review solutions of peers and suggest improvements. Let's build a strong community of kind developers! 👭👫👬
 
-All the best!
-  
-<hr>
+## Contributors
+
+[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/0)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/0)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/1)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/1)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/2)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/2)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/3)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/3)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/4)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/4)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/5)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/5)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/6)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/6)[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/images/7)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/links/7)
+
+
+
+## Resources
+
+For all the young duckings, we have posted some useful resources to go through and understand GitHub. 
+- [Documentation](https://guides.github.com/)
+- [Git Documentation](https://git-scm.com/docs)
