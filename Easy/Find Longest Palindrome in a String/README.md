@@ -1,14 +1,18 @@
-Asked in Amazon Interview:
-*Find Longest Palindrome in a String*: Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+> Asked in Amazon Interview:
+## **Find Longest Palindrome in a String**: 
 
-NOTE: Required Time Complexity O(n^2).
+### Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
 
-Read Solution in comment section by Coding Club.
+### NOTE: Required Time Complexity O(n^2).
 
-Example:
+### Read Solution in comment section by Coding Club.
+
+### Example:
+```
 Input:
 1
 aaaabbaa
 
 Output:
 aabbaa
+```
